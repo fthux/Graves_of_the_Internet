@@ -7,6 +7,10 @@
   <p>以此祭奠那些夕阳下的奔跑，祭奠那些逝去的青春</p>
 </div>
 
+## 仓库地址
+> * github 仓库地址 [https://github.com/fthux/Graves_of_the_Internet](https://github.com/fthux/Graves_of_the_Internet)。
+> * gitee 仓库地址 [https://gitee.com/fthux/Graves_of_the_Internet](https://gitee.com/fthux/Graves_of_the_Internet)。
+
 ## 说明
 
 > Inspired by [killedbygoogle](https://killedbygoogle.com/)
@@ -19,7 +23,7 @@
 
 ## 访问地址
 
-访问 [https://myvin.github.io/Graves_of_the_Internet](https://myvin.github.io/Graves_of_the_Internet) 查看。
+访问 [https://fthux.github.io/Graves_of_the_Internet](https://fthux.github.io/Graves_of_the_Internet) 查看。
 
 ## 补充/修改产品列表
 
@@ -41,14 +45,14 @@
 
 ### 支付宝
 
-<img src="https://raw.githubusercontent.com/myvin/miniprogram/master/9181893579988_.pic_hd.jpg" width="300" /> <img src="https://raw.githubusercontent.com/myvin/miniprogram/master/9191893579989_.pic.jpg" width="300" />
+<img src="https://raw.githubusercontent.com/fthux/miniprogram/master/9181893579988_.pic_hd.jpg" width="300" /> <img src="https://raw.githubusercontent.com/fthux/miniprogram/master/9191893579989_.pic.jpg" width="300" />
 
 ### 微信
 
-<img src="https://raw.githubusercontent.com/myvin/miniprogram/master/9201893579990_.pic_hd.jpg" width="300" />
+<img src="https://raw.githubusercontent.com/fthux/miniprogram/master/9201893579990_.pic_hd.jpg" width="300" />
 
 ## License
 
 [MIT](http://opensource.org/licenses/MIT)
 
-Copyright (c) 2018-present, myvin
+Copyright (c) 2018-present, fthux
