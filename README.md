@@ -1,4 +1,6 @@
-[Read in English](README.en.md) - [中文](README.md)
+# Graves of the Internet
+
+![Achived](https://img.shields.io/badge/achived-read_only-8A2BE2)
 
 <div align="center">
   <img src="src/assets/grave.png" alt="grave" style="height: 80px;width: 80px;padding: 0 20px;">
@@ -45,11 +47,11 @@
 
 ### 支付宝
 
-<img src="https://raw.githubusercontent.com/fthux/miniprogram/master/9181893579988_.pic_hd.jpg" width="300" /> <img src="https://raw.githubusercontent.com/fthux/miniprogram/master/9191893579989_.pic.jpg" width="300" />
+<img src="https://raw.githubusercontent.com/fthux/miniprogram/master/9181893579988_.pic_hd.jpg" width="200" /> <img src="https://raw.githubusercontent.com/fthux/miniprogram/master/9191893579989_.pic.jpg" width="200" />
 
 ### 微信
 
-<img src="https://raw.githubusercontent.com/fthux/miniprogram/master/9201893579990_.pic_hd.jpg" width="300" />
+<img src="https://raw.githubusercontent.com/fthux/miniprogram/master/9201893579990_.pic_hd.jpg" width="200" />
 
 ## License
 
